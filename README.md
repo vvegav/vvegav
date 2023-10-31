@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="link-to-your-profile-image" alt="Vanessa's Profile Image" width="150"/>
-</p>
-
 <h1 align="center">Vanessa's GitHub Profile</h1>
 
 Hello there! 👋 I'm Vanessa, a finance enthusiast turned tech enthusiast. I hold a Bachelor's degree in Finance and bring over 5 years of invaluable experience as a trader at Banco Santander. Currently, I am diving into the exciting world of technology, pursuing a Master's in Business Analytics and Big Data to fuel my passion for data-driven insights and innovation.
@@ -47,7 +43,7 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 
 Let's connect! Feel free to reach out:
 
-<a href="https://www.linkedin.com/in/vanessa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vanessavegaval" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/vanessa_tech" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 <a href="https://vanessa.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"></a>
 
