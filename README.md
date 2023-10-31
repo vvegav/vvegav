@@ -1,4 +1,8 @@
-# Vanessa's GitHub Profile
+<p align="center">
+  <img src="link-to-your-profile-image" alt="Vanessa's Profile Image" width="150"/>
+</p>
+
+<h1 align="center">Vanessa's GitHub Profile</h1>
 
 Hello there! 👋 I'm Vanessa, a finance enthusiast turned tech enthusiast. I hold a Bachelor's degree in Finance and bring over 5 years of invaluable experience as a trader at Banco Santander. Currently, I am diving into the exciting world of technology, pursuing a Master's in Business Analytics and Big Data to fuel my passion for data-driven insights and innovation.
 
@@ -13,7 +17,7 @@ Hello there! 👋 I'm Vanessa, a finance enthusiast turned tech enthusiast. I ho
 I'm eager to contribute to the tech space and explore the intersection of data analytics, business strategy, and innovation. My focus includes:
 
 - 📊 **Data Analytics:** Unleashing insights from data to drive informed decision-making.
-- 💻 **Tech Transition:** Bridging my finance expertise with technology for impactful solutions.
+- 💻 **Tech Transition:** Bridging my financial analytics expertise with technology for impactful solutions.
 - 🌐 **Web Development:** Exploring the world of web technologies.
 
 ## 🛠️ Skills
@@ -23,7 +27,7 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 - **Data Tools:** Pandas, NumPy, Tableau
 - **Version Control:** Git
   
-## Technologies:
+## 🖥️ Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
