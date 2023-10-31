@@ -16,6 +16,9 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 - 💻 **Tech Transition:** Bridging my financial analytics expertise with technology for impactful solutions.
 - 🌐 **Web Development:** Exploring the world of web technologies.
 
+## 🏆 Achievements
+- 🌱 Winner of Acciona | IE Datathon 2023
+
 ## 🛠️ Skills
 
 - **Analytical Skills:** Sharp analytical mindset developed through finance experience.
