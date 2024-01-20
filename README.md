@@ -37,6 +37,13 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%2307405e.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=Power-BI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23025E8C.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%236E4A9E.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%230074E5.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
 
 ## 🌐 Connect with Me
