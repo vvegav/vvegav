@@ -1,12 +1,12 @@
 <h1 align="center">Vanessa's GitHub Profile</h1>
 
-Hello there! 👋 I'm Vanessa, a finance enthusiast turned tech enthusiast. I hold a Bachelor's degree in Finance and bring over 5 years of invaluable experience as a trader at Banco Santander. Currently, I am diving into the exciting world of technology, pursuing a Master's in Business Analytics and Big Data to fuel my passion for data-driven insights and innovation.
+Hello there! 👋 I'm Vanessa, a finance enthusiast turned tech enthusiast. I hold a Bachelor's degree in Finance and bring over 5 years of invaluable experience as a trader at Banco Santander. Currently, I am diving into the exciting world of technology, having just graduated from a Master's in Business Analytics and Big Data to fuel my passion for data-driven insights and innovation.
 
 ## 🔍 About Me
 
 - 💼 **Professional Background:** Former Trader at Banco Santander
-- 📚 **Current Pursuit:** Master's in Business Analytics and Big Data
-- 🌐 **Aspirations:** Transitioning from Finance to Tech
+- 📚 **Academic Background:** Bachelor’s in Finance, Master's in Business Analytics and Big Data with a concentration in Artificial Intelligence
+- 🌐 **Aspirations:** Transitioning from Finance to Tech: Data Analytics, Data Science, Machine Learning.
 
 ## 🚀 Tech Interests
 
@@ -36,7 +36,6 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%2307405e.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
