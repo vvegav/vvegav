@@ -25,7 +25,8 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 - **Programming Languages:** Python, SQL
 - **Data Tools:** Pandas, NumPy, Tableau
 - **Version Control:** Git
-- **Certifications:** <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1fd354d3-ffae-467d-a2c1-3347fd34ed50" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- **Certifications:** ![Credly Badge]([(https://www.credly.com/badges/1fd354d3-ffae-467d-a2c1-3347fd34ed50/public_url)])
+
 
 ## 🖥️ Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
