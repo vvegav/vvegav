@@ -23,9 +23,9 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 
 - **Analytical Skills:** Sharp analytical mindset developed through finance experience.
 - **Programming Languages:** Python, SQL
-- **Data Tools:** Pandas, NumPy, Tableau
+- **Data Tools:** Pandas, NumPy, Tableau, Power BI
 - **Version Control:** Git
-- **Certifications:** ![Credly Badge](https://www.credly.com/badges/1fd354d3-ffae-467d-a2c1-3347fd34ed50/public_url)
+- **Certifications:** Tableau Desktop Specialist
 
 
 
