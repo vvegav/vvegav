@@ -53,8 +53,7 @@ I'm eager to contribute to the tech space and explore the intersection of data a
 Let's connect! Feel free to reach out:
 
 <a href="https://www.linkedin.com/in/vanessavegaval" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/vanessa_tech" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-<a href="https://vanessa.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"></a>
+
 
 ## 📈 GitHub Stats
 
